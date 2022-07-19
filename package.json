@@ -1,7 +1,7 @@
 {
   "name": "mern-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "A social media application called \"Deep Thoughts,\" where users can create an account, post their thoughts for others to see, and interact with other users through these thoughts:",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -19,5 +19,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EPW80/Deep-Thoughts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EPW80/Deep-Thoughts/issues"
+  },
+  "homepage": "https://github.com/EPW80/Deep-Thoughts#readme"
 }
