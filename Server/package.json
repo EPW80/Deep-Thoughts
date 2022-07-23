@@ -13,19 +13,13 @@
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^4.0.1",
-    "express": "^4.17.1",
     "faker": "^4.1.0",
-    "mongoose": "^5.9.9"
+    "apollo-server-express": "^3.6.1",
+    "express": "^4.17.2",
+    "graphql": "^16.2.0",
+    "mongoose": "^6.1.6"
   },
   "devDependencies": {
     "nodemon": "^2.0.3"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/EPW80/Deep-Thoughts.git"
-  },
-  "bugs": {
-    "url": "https://github.com/EPW80/Deep-Thoughts/issues"
-  },
-  "homepage": "https://github.com/EPW80/Deep-Thoughts#readme"
+  }
 }
