@@ -55,8 +55,4 @@ Contact me at **erikparrawilliams@gmail.com** with any questions or if you'd lik
 
 ## License  
 <a href=./LICENSE>![License](https://img.shields.io/badge/License%3A-MIT-green.svg)</a>     
-<<<<<<< HEAD
 This app is licensed under the MIT license.
-=======
-This app is licensed under the MIT license.
->>>>>>> develop
