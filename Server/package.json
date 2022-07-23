@@ -1,7 +1,7 @@
 {
   "name": "mern-server",
   "version": "1.0.0",
-  "description": "A social media application called \"Deep Thoughts,\" where users can create an account, post their thoughts for others to see, and interact with other users through these thoughts:",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -14,6 +14,7 @@
   "dependencies": {
     "bcrypt": "^4.0.1",
     "faker": "^4.1.0",
+    "jsonwebtoken": "^8.5.1",
     "apollo-server-express": "^3.6.1",
     "express": "^4.17.2",
     "graphql": "^16.2.0",
