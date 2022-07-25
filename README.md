@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/apollo-9cf" />
 </p>
 
-## deep-thoughts
+## Deep-Thoughts
 
 MERN (MongoDB, Express.js, React, and Node.js) stack social network. SPA (Single Page Application) utilizing react router, GraphQL and JWT (JSON Web Token) authentication. The backend application is deployed live @Heroku utilizing MongoDB Atlas.
 
