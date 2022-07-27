@@ -9,9 +9,9 @@ This is a full-stack MERN app using a GraphQL API and Apollo Server for interact
 
 ## Table of Contents
 - [Technology Used](#technology-used)
-- [Screenshots](#screenshots)
+<!-- - [Screenshots](#screenshots) -->
 - [Contact](#contact)
-- [Links](#links)
+<!-- - [Links](#links) -->
 - [License](#license)
 
 
